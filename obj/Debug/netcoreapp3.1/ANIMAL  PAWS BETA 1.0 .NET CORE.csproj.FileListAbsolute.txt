@@ -1,0 +1,37 @@
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\bin\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.exe
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\bin\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.deps.json
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\bin\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.runtimeconfig.json
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\bin\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.runtimeconfig.dev.json
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\bin\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.dll
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\bin\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.pdb
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\bin\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.Views.dll
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\bin\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.Views.pdb
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.csprojAssemblyReference.cache
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.AssemblyInfoInputs.cache
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.AssemblyInfo.cs
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.csproj.CoreCompileInputs.cache
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.RazorAssemblyInfo.cache
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.RazorAssemblyInfo.cs
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\staticwebassets\ANIMAL  PAWS BETA 1.0 .NET CORE.StaticWebAssets.Manifest.cache
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\staticwebassets\ANIMAL  PAWS BETA 1.0 .NET CORE.StaticWebAssets.xml
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\scopedcss\bundle\ANIMAL  PAWS BETA 1.0 .NET CORE.styles.css
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.TagHelpers.input.cache
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.TagHelpers.output.cache
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.RazorCoreGenerate.cache
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.RazorTargetAssemblyInfo.cache
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.RazorTargetAssemblyInfo.cs
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.Views.pdb
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.dll
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.pdb
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.genruntimeconfig.cache
+C:\Users\SENA\Desktop\ANIMAL PAWS 1.0\ANIMAL  PAWS BETA 1.0 .NET CORE\obj\Debug\netcoreapp3.1\ANIMAL  PAWS BETA 1.0 .NET CORE.csproj.CopyComplete
