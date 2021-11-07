@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\SENA\\Desktop\\ANIMAL PAWS 1.0\\ANIMAL  PAWS BETA 1.0 .NET CORE\\ANIMAL  PAWS BETA 1.0 .NET CORE.csproj": {}
+    "C:\\Users\\ekigo\\Desktop\\Animal Paws\\CODE C#\\AnimalPaws\\ANIMAL  PAWS BETA 1.0 .NET CORE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\SENA\\Desktop\\ANIMAL PAWS 1.0\\ANIMAL  PAWS BETA 1.0 .NET CORE\\ANIMAL  PAWS BETA 1.0 .NET CORE.csproj": {
+    "C:\\Users\\ekigo\\Desktop\\Animal Paws\\CODE C#\\AnimalPaws\\ANIMAL  PAWS BETA 1.0 .NET CORE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\SENA\\Desktop\\ANIMAL PAWS 1.0\\ANIMAL  PAWS BETA 1.0 .NET CORE\\ANIMAL  PAWS BETA 1.0 .NET CORE.csproj",
+        "projectUniqueName": "C:\\Users\\ekigo\\Desktop\\Animal Paws\\CODE C#\\AnimalPaws\\ANIMAL  PAWS BETA 1.0 .NET CORE.csproj",
         "projectName": "ANIMAL  PAWS BETA 1.0 .NET CORE",
-        "projectPath": "C:\\Users\\SENA\\Desktop\\ANIMAL PAWS 1.0\\ANIMAL  PAWS BETA 1.0 .NET CORE\\ANIMAL  PAWS BETA 1.0 .NET CORE.csproj",
-        "packagesPath": "C:\\Users\\SENA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\SENA\\Desktop\\ANIMAL PAWS 1.0\\ANIMAL  PAWS BETA 1.0 .NET CORE\\obj\\",
+        "projectPath": "C:\\Users\\ekigo\\Desktop\\Animal Paws\\CODE C#\\AnimalPaws\\ANIMAL  PAWS BETA 1.0 .NET CORE.csproj",
+        "packagesPath": "C:\\Users\\ekigo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ekigo\\Desktop\\Animal Paws\\CODE C#\\AnimalPaws\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\SENA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ekigo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
